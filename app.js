@@ -1,5 +1,5 @@
 // Configuration
-const GEMINI_API_KEY = 'AIzaSyBiN3E2WyCDvhIdqhmMrevUpExRylSfsYs';
+const GEMINI_API_KEY = 'YOUR API KEY';
 
 // DOM Elements
 const imageInput = document.getElementById('imageInput');
@@ -616,3 +616,4 @@ Start with: export default function App() {`
 
   return code;
 }
+
